@@ -11,7 +11,7 @@ This script enables YouTube videos to automatically enter Picture-in-Picture mod
    - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
    - [Chrome](https://www.tampermonkey.net/) (Tampermonkey is an alternative to GreaseMonkey for Chrome users)
 
-2. Click [this link](https://raw.githubusercontent.com/CyrisXD/YouPIP-Script/main/script.js) to install the YouTube Picture-in-Picture Toggle script.
+2. Click [this link](https://raw.githubusercontent.com/CyrisXD/YouPIP-Script/main/youPIP.user.js) to install the YouTube Picture-in-Picture Toggle script.
 
 3. GreaseMonkey should automatically detect the script and prompt you to install it. Click "Install" to proceed.
 
