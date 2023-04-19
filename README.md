@@ -19,6 +19,10 @@ This script enables YouTube videos to automatically enter Picture-in-Picture mod
 
 Once the script is installed, simply watch a YouTube video and switch to another tab. If the video is playing, it will automatically enter Picture-in-Picture mode. Switch back to the YouTube tab to exit Picture-in-Picture mode and resume playback in the original browser window.
 
+## To Do
+
+An unforeseen bug just appeared where the browser requires user interaction on the page before switching tabs for the PIP function to work. This could lead to intermittent functionality of the script. Need to find a work-around.
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
