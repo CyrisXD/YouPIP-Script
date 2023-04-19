@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Watch YouTube videos in Picture-in-Picture mode while browsing other sites and revert back when returning to the original tab, only if the video is playing.
 // @author       @Sudo_Overflow
-// @match        https://www.youtube.com/watch*
+// @match        *://www.youtube.com/*
 // @grant        none
 // ==/UserScript==
 
